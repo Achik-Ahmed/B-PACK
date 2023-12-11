@@ -50,3 +50,15 @@ Install all Termux basic packages in one click
 [23] coreutils
 
 # INSTALLATION COMMANDS:-
+```
+apt update && apt upgrade
+
+pkg install git python -y
+
+git clone https://github.com/Achik-Ahmed/B-PACK
+
+cd B-PACK
+
+python b-pack.py
+```
+## THANK YOU FOR USING THIS TOOL
